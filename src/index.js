@@ -1,5 +1,5 @@
-import {JsonRpc} from "eosjs";
-import fetch from "node-fetch";
+const { JsonRpc } = require('eosjs');
+const fetch = require('node-fetch');
 
 const token = "YOUR_TOKEN_HERE"
 const endpoint = "https://pro.wax.oneapi.dev"

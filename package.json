@@ -1,7 +1,6 @@
 {
   "name": "eosjs-with-authentication-javascript",
   "version": "1.0.0",
-  "type": "module",
   "description": "Example implementation of using eosjs with Bearer Token, written in Javascript",
   "main": "src/index.js",
   "repository": "https://github.com/Blacklusion/eosjs-with-authentication-javascript.git",
